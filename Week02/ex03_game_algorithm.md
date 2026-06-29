@@ -29,7 +29,7 @@ Show --> End([End])
 ```
 
 
-โจทย์ C (ท้าทาย) — Simple AI Patrol
+โจทย์ C (ท้าทาย) — Simple AI Patrol 
 
 
 ```mermaid

@@ -72,7 +72,7 @@ T2 --> D1
 D1 --> |No| End([End])
 ```
 
-BEGIN [นับ 1 ถึง N]
+BEGIN [นับ 1 ถึง N] 
 
 INPUT N
 
